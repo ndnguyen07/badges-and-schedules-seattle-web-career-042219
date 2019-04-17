@@ -27,3 +27,4 @@ def printer
     puts number
   end
 end
+
